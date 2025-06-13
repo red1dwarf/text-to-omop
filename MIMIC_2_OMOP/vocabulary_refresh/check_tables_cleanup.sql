@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS omop.z_check_voc_1;
+DROP TABLE IF EXISTS omop.z_check_voc_2;
+DROP TABLE IF EXISTS omop.z_check_voc_3;
+DROP TABLE IF EXISTS omop.z_check_voc_5;
+DROP TABLE IF EXISTS omop.z_check_voc_6;
+DROP TABLE IF EXISTS omop.z_check_voc_7;
+DROP TABLE IF EXISTS omop.z_check_voc_8;
+DROP TABLE IF EXISTS omop.z_check_voc_9;
+DROP TABLE IF EXISTS omop.z_check_voc_10;
+DROP TABLE IF EXISTS omop.z_check_voc_11;
+DROP TABLE IF EXISTS omop.z_check_voc_12;
+DROP TABLE IF EXISTS omop.z_check_voc_13;
+DROP TABLE IF EXISTS omop.z_check_voc_14;
+DROP TABLE IF EXISTS omop.z_check_voc_15;
+DROP TABLE IF EXISTS omop.z_check_voc_16;
+DROP TABLE IF EXISTS omop.z_check_voc_17;

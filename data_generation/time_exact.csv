@@ -1,0 +1,6 @@
+time_filter_type,expression_type,unit,interval_type,option,nl_time_expression,sql_time_pattern
+exact,relative,exact,at,-,first,ORDER BY [time_column] ASC LIMIT 1
+exact,relative,exact,at,-,second,ORDER BY [time_column] ASC LIMIT 1 OFFSET 1
+exact,relative,exact,at,-,second to last,ORDER BY [time_column] DESC LIMIT 1 OFFSET 1
+exact,relative,exact,at,-,last,ORDER BY [time_column] DESC LIMIT 1
+exact,absolute,exact,at,-,at {year}-{month}-{day} {hour}:{minute}:{second},WHERE datetime([time_column]) = '{year}-{month}-{day} {hour}:{minute}:{second}'

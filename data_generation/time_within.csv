@@ -1,0 +1,10 @@
+time_filter_type,expression_type,unit,interval_type,option,nl_time_expression,sql_time_pattern
+within,-,hospital,in,-,within the same hospital visit,WHERE [hospital_admission_id1] = [hospital_admission_id2]
+within,-,ICU,in,-,within the same icu visit,WHERE [icu_admission_id1] = [icu_admission_id2]
+within,-,year,in,-,within the same year,"WHERE datetime([time_column1],'start of year') = datetime([time_column2],'start of year')"
+within,-,n_year,in,-,within {year} year,"WHERE datetime([time_column2]) BETWEEN datetime([time_column1]) AND datetime([time_column1],'+{year} year')"
+within,-,month,in,-,within the same month,"WHERE datetime([time_column1],'start of month') = datetime([time_column2],'start of month')"
+within,-,n_month,in,-,within {month} month,"WHERE datetime([time_column2]) BETWEEN datetime([time_column1]) AND datetime([time_column1],'+{month} month')"
+within,-,day,in,-,within the same day,"WHERE datetime([time_column1],'start of day') = datetime([time_column2],'start of day')"
+within,-,n_day,in,-,within {day} day,"WHERE datetime([time_column2]) BETWEEN datetime([time_column1]) AND datetime([time_column1],'+{day} day')"
+within,-,exact,in,-,at the same time,WHERE datetime([time_column1]) = datetime([time_column2])

@@ -1,0 +1,40 @@
+time_filter_type,expression_type,unit,interval_type,option,nl_time_expression,sql_time_pattern
+global,relative,hospital,in,first,on the first hospital visit,WHERE [hospital_dischargetime] IS NOT NULL ORDER BY [hospital_admittime] ASC LIMIT 1
+global,relative,hospital,in,last,on the last hospital visit,WHERE [hospital_dischargetime] IS NOT NULL ORDER BY [hospital_admittime] DESC LIMIT 1
+global,relative,hospital,in,current,on the current hospital visit,WHERE [hospital_dischargetime] IS NULL
+global,relative,ICU,in,first,on the first ICU visit,WHERE [icu_dischargetime] IS NOT NULL ORDER BY [icu_admittime] ASC LIMIT 1
+global,relative,ICU,in,last,on the last ICU visit,WHERE [icu_dischargetime] IS NOT NULL ORDER BY [icu_admittime] DESC LIMIT 1
+global,relative,ICU,in,current,on the current ICU visit,WHERE [icu_dischargetime] IS NULL
+global,relative,year,in,last,last year,"WHERE datetime([time_column],'start of year') = datetime(current_time,'start of year','-1 year')"
+global,relative,year,until,last,until last year,"WHERE datetime([time_column],'start of year') <= datetime(current_time,'start of year','-1 year')"
+global,relative,year,since,last,since last year,"WHERE datetime([time_column],'start of year') >= datetime(current_time,'start of year','-1 year')"
+global,relative,year,in,this,this year,"WHERE datetime([time_column],'start of year') = datetime(current_time,'start of year','-0 year')"
+global,relative,year,until,-,until {year} year ago,"WHERE datetime([time_column]) <= datetime(current_time,'-{year} year')"
+global,relative,year,since,-,since {year} year ago,"WHERE datetime([time_column]) >= datetime(current_time,'-{year} year')"
+global,relative,month,in,last,last month,"WHERE datetime([time_column],'start of month') = datetime(current_time,'start of month','-1 month')"
+global,relative,month,until,last,until last month,"WHERE datetime([time_column],'start of month') <= datetime(current_time,'start of month','-1 month')"
+global,relative,month,since,last,since last month,"WHERE datetime([time_column],'start of month') >= datetime(current_time,'start of month','-1 month')"
+global,relative,month,in,this,this month,"WHERE datetime([time_column],'start of month') = datetime(current_time,'start of month','-0 month')"
+global,relative,month,until,-,until {month} month ago,"WHERE datetime([time_column]) <= datetime(current_time,'-{month} month')"
+global,relative,month,since,-,since {month} month ago,"WHERE datetime([time_column]) >= datetime(current_time,'-{month} month')"
+global,relative,day,in,last,yesterday,"WHERE datetime([time_column],'start of day') = datetime(current_time,'start of day','-1 day')"
+global,relative,day,until,last,until yesterday,"WHERE datetime([time_column],'start of day') <= datetime(current_time,'start of day','-1 day')"
+global,relative,day,since,last,since yesterday,"WHERE datetime([time_column],'start of day') >= datetime(current_time,'start of day','-1 day')"
+global,relative,day,in,this,today,"WHERE datetime([time_column],'start of day') = datetime(current_time,'start of day','-0 day')"
+global,relative,day,until,-,until {day} day ago,"WHERE datetime([time_column]) <= datetime(current_time,'-{day} day')"
+global,relative,day,since,-,since {day} day ago,"WHERE datetime([time_column]) >= datetime(current_time,'-{day} day')"
+global,absolute,year,in,-,in {year},"WHERE strftime('%Y',[time_column])= '{year}'"
+global,absolute,year,until,-,until {year},"WHERE strftime('%Y',[time_column]) <= '{year}'"
+global,absolute,year,since,-,since {year},"WHERE strftime('%Y',[time_column]) >= '{year}'"
+global,absolute,month,in,-,in {month}/{year},"WHERE strftime('%Y-%m',[time_column])= '{year}-{month}'"
+global,absolute,month,until,-,until {month}/{year},"WHERE strftime('%Y-%m',[time_column]) <= '{year}-{month}'"
+global,absolute,month,since,-,since {month}/{year},"WHERE strftime('%Y-%m',[time_column]) >= '{year}-{month}'"
+global,absolute,day,in,-,on {month}/{day}/{year},"WHERE strftime('%Y-%m-%d',[time_column]) = '{year}-{month}-{day}'"
+global,absolute,day,until,-,until {month}/{day}/{year},"WHERE strftime('%Y-%m-%d',[time_column]) <= '{year}-{month}-{day}'"
+global,absolute,day,since,-,since {month}/{day}/{year},"WHERE strftime('%Y-%m-%d',[time_column]) >= '{year}-{month}-{day}'"
+global,mix,month,in,last,in {month}/last year,"WHERE datetime([time_column],'start of year') = datetime(current_time,'start of year','-1 year') AND strftime('%m',[time_column]) = '{month}'"
+global,mix,month,in,this,in {month}/this year,"WHERE datetime([time_column],'start of year') = datetime(current_time,'start of year','-0 year') AND strftime('%m',[time_column]) = '{month}'"
+global,mix,day,in,last,on {month}/{day}/last year,"WHERE datetime([time_column],'start of year') = datetime(current_time,'start of year','-1 year') AND strftime('%m-%d',[time_column]) = '{month}-{day}'"
+global,mix,day,in,this,on {month}/{day}/this year,"WHERE datetime([time_column],'start of year') = datetime(current_time,'start of year','-0 year') AND strftime('%m-%d',[time_column]) = '{month}-{day}'"
+global,mix,day,in,last,on last month/{day},"WHERE datetime([time_column],'start of month') = datetime(current_time,'start of month','-1 month') AND strftime('%d',[time_column]) = '{day}'"
+global,mix,day,in,this,on this month/{day},"WHERE datetime([time_column],'start of month') = datetime(current_time,'start of month','-0 month') AND strftime('%d',[time_column]) = '{day}'"
