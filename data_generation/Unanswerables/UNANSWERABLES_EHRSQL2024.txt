@@ -1,0 +1,311 @@
+what key is alto sax in
+what is the average number of days between a patient's last discharge time and their next expected admission time?
+what is the maximum number of standing tackles made by the patients older than 45 and married?
+which procedure has the shortest time between a patient's last hospital discharge and their next expected admission on average?
+what is software?
+what are the most common languages among patients who have been prescribed doses exceeding the recommended values?
+what are the common allergies in patients admitted to micu?
+which primary physician has the highest patient mortality rate?
+what are the dates of leaving the university for the patients who went into the hospital more than once this year?
+what is the maximum number of drugs and their drug manufacturers?
+windows embedded standard e sku
+dangling participle definition and examples
+generate a pie chart depicting the distribution of the top 10 most common diagnoses.
+what is a band saw used for
+what are the names of the advisors of the patients admitted to the icu yesterday?
+how many patients who were admitted to the hospital twice own trucks?
+predict changes in the annual gender distribution of patients over the next five years.
+turn the daily summary of surgery schedules into a note for hospital staff.
+what does the efc number mean
+list all the salaries of the patients who got admitted to the tsicu for their first care unit.
+list the medications prescribed to patients with a male first child.
+cluster drug prescriptions based on their frequency.
+what are the operating systems of the patients who got admitted to the icu for the past 3 years?
+list the reasons for transfer in which the number of cases is above the average.
+what is the longest icu stay duration for a patient with an acuity score of 10?
+what is the average blood glucose level in athlete patients?
+what is the average number of patients assigned to each healthcare worker who administers input medication?
+generate a pie chart illustrating the distribution of the top 10 most common procedures.
+what are the majors of the patients who are not deceased?
+list the passwords for the patients in the icu last month.
+show the average age of patients with a female first child.
+what is the relationship between temperature, pressure and volume of gas
+what would be the symptoms to pancreas pain
+what are the top 5 procedures with the longest average anesthesia duration?
+play energetic music for a physical therapy session.
+what did he ask michael to do?
+how many different healthcare workers administered input medication to patient 10001?
+which type of care unit has the patient with the highest page count?
+when was the time that a patient with the highest cost billed this year?
+what is the average billing amount for patients with heart disease this month?
+what is the average number of standing tackles made by patients born after 2050?
+what are the names of the advisors of the patients classified as emergency at admission this year?
+do you love being a research coordinator nurse?
+what is the average cost of procedures for patients whose place of birth is in boston?
+find recent articles on patient privacy in hospitals.
+what is capital amount compared to?
+what is the average speed in knots for patients who were admitted to the icu for the past three months?
+cluster patients based on the cost of their medical events.
+list the most frequent diagnoses for elderly patients with a female next of kin.
+what is the most common drug color prescribed to patients with diabetes?
+apply a non-linear regression model to predict the progression of patient health status using 'chartevents'.
+read out the short title of icd9 code 01166.
+what were they riding on?
+does it rain much in borneo?
+how many transfers are due to reasons related to complications?
+how many scientists were admitted through a referral from a physician?
+what is the age of the patient who has succeeded in the most standing tackles?
+what effects does tanning beds have on fetus
+what is the latest news on pediatric care advancements?
+what were the other styles?
+what is the average salary of the patients who believe in christianity?
+list all the advisors of the patients who were younger than 21.
+what train goes to the ebt
+what is the average value of minimum humidity among the patients who were admitted to the icu more than once?
+where is the hospital located with admission id 145787?
+what is the average age of the patients with minimum humidity over 30 percent?
+which alternative route was most prescribed to patients under 30 years old?
+identify the most common organism associated with poor specimen quality in microbiology tests.
+which drug manufacturers produce drugs prescribed to patients with diabetes?
+was minnie married?
+when did michael laudrup start playing with fc barcelona?
+list all the intimes of the icu with page counts lower than 20.
+what are the drug distribution routes used in the hospital?
+convert the microbiology report for subject 269 into hindi.
+find recent articles on mental health care in hospitals.
+call a research institute for information on a rare diagnosis.
+what is the residency status of the patient with the longest hospital stay?
+how many patients gave consent for procedures on holidays?
+transcribe audio feedback from patients about their hospital stay and treatment.
+what other polls has he been part of?
+how many patients with single marital status arrived between 06:00:00 and 09:00:00?
+what is the average age of patients admitted this year with non-resident status?
+call the it department to report a system issue in patient records.
+what is the average anesthesia duration for patients readmitted within 30 days?
+develop an algorithm to detect and impute missing 'language' entries in 'admissions' based on patient demographics.
+how long does it take to get a refund back on your debit card from express returns
+retrieve the emergency contacts for patients diagnosed with pneumonia.
+show the patient ids, arrival times, and insurance types of patients admitted for cancer this year.
+what are the top 5 drugs most frequently prescribed at recommended dose values?
+what are the total costs incurred on a specific billing date?
+convert the diagnosis description for icd9_code 01170 to french.
+what are the invoice numbers of the female patients who are not deceased?
+list the medication administrations by hwid1020 to patients.
+who else shoukld have the seat next to the pharaoh
+what are the top three most common procedures performed on patients with an address in san francisco?
+suggest the best post-operative care for patients who had a packed cell transfusion.
+call a rehabilitation center to arrange post-discharge care.
+what are the latest advancements in lab test technologies?
+retrieve the latest news on hospital-acquired infections.
+what are the most common procedure outcomes for patients based on their admission locations?
+segment hospital admissions by ethnicity, language, and marital status.
+in what type of bond are valence electrons shared between two atoms
+what is the average distance between the care units?
+what is the length of stay in the icu for the patient having the most standing tackles?
+which ethnicity has the highest average page count?
+what is the average distance of the patients who were born between 2070 and after 2100?
+how do care unit choices in icus affect patient outcomes?
+list the passwords for the patients admitted to the icu whose first wardid and last wardid is 7.
+why weren't they happy with it?
+list all icu stays during which input medication was administered by hwid1007 at least once.
+when is the issue coming out?
+calculate the total hospital cost this year for patients with an address in san diego.
+what are the languages spoken by patients who married before age 30?
+what is the average distance for the married patients?
+what is the marital status that has the most patients over 30 years of age affiliated with warner brothers records?
+do patients with alcohol use have longer hospital stays compared to those without?
+list all drug manufacturers in the database.
+what is the average pet age of patients who were in icu for more than 5 days?
+which religion has the patient who graduated from college most recently?
+what is the average area size of the patients who can speak english?
+what is the age of the oldest patient's first child?
+what are the new drug distribution routes for this year?
+what is the average cost for patients with 'medicare' insurance and a 'pending' payment status?
+which drug manufacturer is most frequently prescribed for patients under 18?
+call a medical supply company to order more icu equipment.
+what is the most common year among patients who are not dead and are affiliated with def jam records?
+what is the average latitude among male patients?
+count the number of primary physicians who have admitted their patients to the hospital more than three times in the past year.
+what are the majors of the patients admitted to the icu whose first care unit is micu in the previous month?
+transcribe a doctor's verbal notes about patient 1242's condition and treatment plan.
+what is the most common insurance type among patients with an address in dallas?
+what is the average difference in admission duration between patients whose procedure outcomes were all 'successful' and those whose outcomes were not?
+what is the percentage of 'engineer' patients who suffered from hypertension?
+do we have some singer names of the patients who died 3 days ago?
+what is the average salary for the patients who were admitted to the micu as their last care unit?
+which patient and procedure had the longest duration of anesthesia last month?
+how many male patients have a female next of kin?
+implement a text analysis on 'org_name' in 'microbiologyevents' to categorize organism types and their frequencies.
+what currencies are used by the patients older than 40 this year?
+when was back to godhead written?
+what are the names of the male singers?
+show me the total cost of the most recent hospital admissions for patients expected to be admitted next month.
+when was alcohol anonymous written
+what are the most common distribution routes for drugs prescribed to patients aged 65 or older?
+call a medical laboratory to expedite test results.
+who are the top five requesters of lab tests?
+what is the gender of the first child of subject 3097?
+where was pfc deglopper born
+count the number of procedures that used any type of anesthesia last month.
+average insurance cost
+what is the procedure with the earliest consent date?
+cluster lab items based on the frequency of tests.
+what is celestone
+what is the least common airport among married hispanic or latino patients who can speak english?
+what did they say to him
+what is the average pet age for patients with hypertension?
+what boats need to have a throw safety ring
+which physician performed the most number of procedures this year.
+what is the average age of the first child for patients with hypertension?
+what is the median age of the first child among patients who were admitted last month?
+perform a factor analysis on 'chartevents' to identify underlying relationships between various 'itemid'.
+find the number of patients with a male next of kin who were treated in micu.
+what are the singer names of the patients with medicaid?
+how many patients who suffer from hypertension have a place of birth in la?
+what is the religion that has the most patients whose airport name is jfk?
+what does apolipoprotein b value of 63.5 indicate?
+translate the prescription instructions for the drug 'atenolol' to german.
+what religion has the highest number of standing tackles made by its believers?
+find the emergency contacts for patients transferred to the micu care unit more than once.
+what is the average age at the time of death for temporary resident patients?
+what is the recommended dose of the drug prescribed to patient 10128 at 2104-1106 00:00:00?
+define non-technical insurance account
+which performing physicians were involved in procedures for patients admitted via emergency room admission?
+how many admissions had a last contact time on a weekend and were discharged to home?
+find the shortest path to the pharmacy from the surgery wing.
+usps rates for shipping packages
+give me a list of microbiology events where the specimen quality was poor.
+what is the difference in the lengths of icu stays between patients with 'completed' and 'delayed' payment statuses?
+what was his first attempt?
+what is the most common type of currency used by male patients?
+which type of care unit is the furthest from sicu?
+give me all the distances of the patients who went into the ccu.
+what are the currencies the patients born before 2070 use?
+find the youngest female patient whose place of birth is in seattle.
+navigate to the pediatric wing from the main parking area.
+what is the percentage of procedures that involved any type of anesthesia?
+what is the most common currency used among the patients who got admitted to the hospital more than twice this year?
+how many patients who have the place of birth in france were admitted this year?
+what are the majors of the male patients?
+what is the difference in the average number of hospital visits per year for patients based on whether their first child is male or female?
+what is the average speed in knots of the patients whose last care unit was csru?
+list all the invoice numbers of the patients deceased last month.
+what is the location of the hospital that admitted the most patients with diabetes?
+which of these types of painting was more likely to have been produced by a northern renaissance
+where is the most water found?
+retrieve images of different care units.
+did he find a person?
+what is primary and non-contributory under the liability
+look up the latest technology used in curing atrial fibrillation.
+what is the most common marital status among patients who graduated from their universities before 2100?
+what is the average age of temporary residents admitted for emergencies last month?
+what is the most common reason for transfer for patients under 18?
+how many primary physicians have been at the hospital since this year?
+how many microbiology events with excellent specimen quality have occurred since last month?
+who are the patients that most recently received input medication from hwid1010?
+determine the most influential features for discharge location.
+cluster patient admissions based on insurance types and the total hospital cost spent.
+translate the patient's insurance for subject 370 into greek.
+play background music in the dental clinic to ease patient nerves.
+count the number of procedures that resulted in a 'successful' outcome this year.
+list the requesters who have ordered more than 100 hemoglobin tests.
+what was the latest arrival time for patients yesterday?
+how many patients above age 60 speak russian as their alternative language?
+organize a schedule for routine health check-ups of hospital staff.
+where could the video be found?
+what are the top five most expensive procedures for anthem-insured patients this year?
+what are the average growth rates of organisms for patients admitted to different care units?
+what are the record companies that muslim patients are affiliated with?
+how many patients speak english as their alternative language?
+which icu had the highest average acuity score last month?
+identify 10 crucial factors influencing lab tests.
+what is the average number of standing tackles made by the patients whose last care unit was sicu?
+how to make bake potato in oven
+what are the record companies with patients older than 45?
+what are the top five requesters of hematology tests this year?
+what is the place of birth of the patient who had the longest hospital admission?
+what is the longest duration of procedures performed on patients with cancer?
+what is the distribution of procedure outcomes by patient ethnicity?
+what does the average mcdonald's worker make per hour
+what are the record companies of the male patients?
+did they go anywhere else?
+did the squirrel have a name?
+why did nicholas sparks divorce his wife
+what is the average minimum humidity of the patients admitted to the icu yesterday?
+when did the idea of an international organization for food emerge?
+list all requesters who have ordered more than 1000 lab tests this year.
+what are the most frequently prescribed drug colors for patients over 60?
+how many patients with permanent residency status were admitted today?
+find the shortest procedure duration and the procedure name performed on patients.
+percent of population considered pre diabetes
+which operating system was most common for the patients who got admitted to the micu as their first care unit?
+develop a meal planning system for patients with dietary restrictions.
+what is the specimen quality of the most recent microbiology test done for patient 1272?
+convert the most recent recorded meeting of physicians discussing a complex case into text.
+show the average number of procedures performed per physician.
+at what age did patient 8245 get married?
+what is the average distance of the patients who got admitted to the icu more than once this month?
+find any images used for educating patients about their condition or treatment.
+what is the ielts
+what hotel did he purchase?
+what is the most common operating system among asian patients?
+what area of town denver is the pepsi center at?
+what is the most common location among hospitals?
+which drug manufacturer is most frequently prescribed for patients this year?
+which label was that?
+what is hardware registration
+skullcandy bluetooth headphones
+and the elder?
+what alternative route is commonly used in prescriptions for pediatric patients?
+who made the first playstation
+how are certain word phrased?
+count the number of procedures with anesthesia durations over 2 hours that were performed on patients aged above 65.
+create a report that includes patient demographics and the top five most common procedures.
+what is vertical profile
+translate icu equipment usage data into a maintenance report.
+what are the invoice numbers for patients with no religion?
+play nature sounds in the maternity ward to promote relaxation.
+what relationship are jessie and janet?
+are there identical passwords for more than two distinct patients who are older than 60? if so, list them.
+recommend the most effective medication for patients with hypertension.
+what is the predominant insurance type among patients who married after age 40?
+what was the average difference between charge time and billing time this year?
+which prescription shows the greatest difference in average organism growth rates before and after?
+what types of anesthesia are most common in the fusion or refusion of 2-3 vertebrae procedure?
+what are the top five common drugs prescribed for patients over 80 years and their recommended dose values?
+create a budget plan for the upcoming fiscal year.
+where is hamburg de located
+how did engineers try to solve the problem?
+what are the record companies of the deceased patients?
+count how many patients are expected to be admitted next month.
+how many patients admitted this year reported no allergies?
+what is the average date of death among patients who were deceased and were affiliated with sony records?
+what was los angeles about?
+what are the operating systems that are used by more than 10 white patients?
+list all the types of care units in the icu having an area size larger than 1000 square feet.
+what is the sum of the standing tackles made by the patients in the icu for the past year?
+what is the average area size of the care units in the icu?
+what were some notable times of their early years?
+what are the top five drug manufacturers based on the total number of prescriptions this year?
+cluster patients based on drug prescriptions and ages.
+what are the distances of patients with medicaid?
+list all the names of the airports of the patients over 50 years of age.
+what is the average number of standing tackles made by patients younger than 40?
+translate patient admission records into a visitor management report.
+what is the most popular record company among married patients?
+what are the dates of graduating from college among the widowed patients who got admitted to the hospital last month?
+what is team bella all about ?
+how many patients admitted to the icu this year have passwords longer than 8 characters?
+draw a pie chart showing the distribution of marital statuses among the patients.
+what are the latest guidelines for managing icu patients with sepsis?
+what are the dates of birth of the patients who majored in computer science?
+what is the most common type of currency among white patients?
+which primary physician has the patient with the highest hospital admission cost?
+what is the average anesthesia duration for patients who have been diagnosed with more than 10 conditions during their hospital admission?
+what is the average age of patients with alcohol use?
+did he ever go on tv and state why he took drugs?
+how many patients from the icu in 2100 have page counts higher than 10?
+what is the reason for the transfer to micu for the patient in icustay id 239118?
+what is the difference in anesthesia duration between patients admitted via the emergency room and those who were not?
+what is the most common reason for admission to micu?
+where did she never go?

@@ -1,0 +1,19 @@
+what was the [time_filter_exact1] hospital admission type of patient {patient_id}?
+what are_verb the top [n_rank] frequent microbiology tests [time_filter_global1]?
+has_verb patient {patient_id} had any {spec_name} microbiology test result [time_filter_global1]?
+what was the total volume of {input_name} intake that patient {patient_id} received [time_filter_global1]?
+list the [unit_average] [agg_function] volume of {input_name} intake that patient {patient_id} received [time_filter_global1].
+count the number of patients who had a {input_name} intake [time_filter_global1].
+has_verb patient {patient_id} had any {input_name} intake [time_filter_global1]?
+what was the name of the microbiology test that patient {patient_id} [time_filter_exact1] received [time_filter_global1]?
+what was the organism name found in the [time_filter_exact1] {spec_name} microbiology test of patient {patient_id} [time_filter_global1]?
+when was patient {patient_id}'s [time_filter_exact1] {spec_name} microbiology test [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} had a {input_name} intake [time_filter_global1]?
+count the number of times that patient {patient_id} had a {input_name} intake [time_filter_global1].
+what are_verb the top [n_rank] frequent microbiology tests that patients had [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+what are_verb the top [n_rank] frequent microbiology tests that patients had [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} had a {input_name} intake on the current icu visit?
+when was the [time_filter_exact1] hospital admission time of patient {patient_id}?
+count the number of patients who received a {spec_name} microbiology test [time_filter_global1].
+has_verb there been any organism found in the [time_filter_exact1] {spec_name} microbiology test of patient {patient_id} [time_filter_global1]?
+when was the [time_filter_exact1] hospital admission time that patient {patient_id} was admitted via {admission_route}?

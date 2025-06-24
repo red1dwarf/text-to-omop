@@ -1,0 +1,4 @@
+has_verb patient {patient_id} received a {procedure_name} procedure in other than the current hospital [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} received a {procedure_name} procedure on the current hospital visit?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} received a procedure on the current hospital visit?
+count the number of patients who were diagnosed with {diagnosis_name} [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1].

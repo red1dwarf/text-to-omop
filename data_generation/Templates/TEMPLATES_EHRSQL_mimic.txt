@@ -1,0 +1,158 @@
+what are_verb the top [n_rank] frequent prescribed drugs for patients who were also prescribed {drug_name} [time_filter_within] [time_filter_global1]?
+what are_verb the top [n_rank] frequent diagnoses of patients aged [age_group] [time_filter_global1]?
+what percentile is the value of {lab_value} in a {lab_name} lab test among patients of the same age as patient {patient_id} [time_filter_global1]?
+what was the name of the drug that patient {patient_id} was [time_filter_exact1] prescribed via {drug_route} route [time_filter_global1]?
+what was the name of the specimen that patient {patient_id} was [time_filter_exact1] tested [time_filter_global1]?
+what are_verb the top [n_rank] frequent diagnoses [time_filter_global1]?
+what does {abbreviation} stand for?
+what was the [time_filter_exact1] measured weight of patient {patient_id} [time_filter_global1]?
+when was the [time_filter_exact1] hospital discharge time of patient {patient_id} [time_filter_global1]?
+count the number of patients who were dead after having been diagnosed with {diagnosis_name} [time_filter_within] [time_filter_global1].
+what are_verb the top [n_rank] frequently prescribed drugs that {gender} patients aged [age_group] were prescribed [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} was prescribed {drug_name1} and {drug_name2} [time_filter_within] [time_filter_global1]?
+count the number of patients who received a {procedure_name} procedure [time_filter_global1].
+count the number of patients who were diagnosed with {diagnosis_name2} [time_filter_within] after having been diagnosed with {diagnosis_name1} [time_filter_global1].
+when was the [time_filter_exact1] time that patient {patient_id} was diagnosed with {diagnosis_name} [time_filter_global1]?
+what is_verb the age of patient {patient_id} [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} stayed in careunit {careunit} on the current hospital visit?
+what are_verb the top [n_rank] frequent procedures of patients aged [age_group] [time_filter_global1]?
+what was the name of the output that patient {patient_id} [time_filter_exact1] had [time_filter_global1]?
+count the number of current patients.
+has_verb there been any organism found in the [time_filter_exact1] {culture_name} microbiology test of patient {patient_id} [time_filter_global1]?
+is the {vital_name} of patient {patient_id} [time_filter_exact2] measured [time_filter_global2] [comparison] than the [time_filter_exact1] value measured [time_filter_global1]?
+has_verb patient {patient_id} received a {lab_name} lab test [time_filter_global1]?
+what was the name of the lab test that patient {patient_id} [time_filter_exact1] received [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} was prescribed a medication via {drug_route} route [time_filter_global1]?
+what are_verb the top [n_rank] frequent intake events [time_filter_global1]?
+has_verb the {vital_name} of patient {patient_id} been ever [comparison] than {vital_value} [time_filter_global1]?
+what are_verb the top [n_rank] frequent specimens that patients were tested [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+has_verb patient {patient_id} been prescribed {drug_name} [time_filter_global1]?
+how many [unit_count] have passed since patient {patient_id} was admitted to the icu currently?
+how many [unit_count] have passed since patient {patient_id} was admitted to the hospital currently?
+what are_verb the top [n_rank] frequent lab tests that patients had [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+what is the [agg_function] [unit_average] number of patient records diagnosed with {diagnosis_name} [time_filter_global1]?
+what was the name of the drug that patient {patient_id} was prescribed [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} had a {intake_name} intake on the current icu visit?
+has_verb patient {patient_id} been prescribed any medication [time_filter_global1]?
+count the number of icu visits of patient {patient_id} [time_filter_global1].
+what was the total amount of dose of {drug_name} that patient {patient_id} were prescribed [time_filter_global1]?
+what was the organism name found in the [time_filter_exact1] {culture_name} microbiology test of patient {patient_id} [time_filter_global1]?
+count the number of current patients aged [age_group].
+count the number of hospital visits of patient {patient_id} [time_filter_global1].
+what is the intake method of {drug_name}?
+count the number of patients who received a {procedure_name} procedure [n_times] [time_filter_global1].
+what is the change in the {vital_name} of patient {patient_id} from the [time_filter_exact2] value measured [time_filter_global2] compared to the [time_filter_exact1] value measured [time_filter_global1]?
+count the number of {procedure_name} procedure cases [time_filter_global1].
+what are_verb the top [n_rank] frequent specimens that patients were tested [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} was prescribed {drug_name} on the current hospital visit?
+what was the [time_filter_exact1] hospital admission type of patient {patient_id} [time_filter_global1]?
+when was the [time_filter_exact1] hospital admission time of patient {patient_id} [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} had a {output_name} output [time_filter_global1]?
+what was the name of the diagnosis that patient {patient_id} [time_filter_exact1] received [time_filter_global1]?
+count the number of patients who received a {lab_name} lab test [time_filter_global1].
+what is the change in the weight of patient {patient_id} from the [time_filter_exact2] value measured [time_filter_global2] compared to the [time_filter_exact1] value measured [time_filter_global1]?
+list the [unit_average] [agg_function] {lab_name} lab value of patient {patient_id} [time_filter_global1].
+what was the total volume of {intake_name} intake that patient {patient_id} received [time_filter_global1]?
+what was the [agg_function] {vital_name} of patient {patient_id} [time_filter_global1]?
+when was the [time_filter_exact1] intake time of patient {patient_id} [time_filter_global1]?
+has_verb patient {patient_id} been diagnosed with {diagnosis_name} [time_filter_global1]?
+what are_verb the top [n_rank] frequently prescribed drugs [time_filter_global1]?
+what are_verb the top [n_rank] frequent output events [time_filter_global1]?
+count the number of times that patient {patient_id} had a {output_name} output [time_filter_global1].
+what are_verb the top [n_rank] frequent drugs that patients were prescribed [time_filter_within] after having been prescribed with {drug_name} [time_filter_global1]?
+what was the total volume of output that patient {patient_id} had [time_filter_global1]?
+count the number of patients who stayed in careunit {careunit} [time_filter_global1].
+count the number of patients who were diagnosed with {diagnosis_name} [time_filter_global1].
+has_verb patient {patient_id} been prescribed {drug_name1}, {drug_name2}, or {drug_name3} [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} was diagnosed with {diagnosis_name} on the current hospital visit?
+what are_verb the top [n_rank] frequent lab tests [time_filter_global1]?
+count the number of patients who were prescribed {drug_name} [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1].
+what are_verb the top [n_rank] frequent procedures that patients received [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+what was the name of the procedure that patient {patient_id} [time_filter_exact1] received [time_filter_global1]?
+list the [unit_average] [agg_function] weight of patient {patient_id} [time_filter_global1].
+count the number of times that patient {patient_id} received a {procedure_name} procedure [time_filter_global1].
+has_verb patient {patient_id} received any lab test [time_filter_global1]?
+what are_verb the top [n_rank] frequently prescribed drugs that patients were prescribed [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+what was the name of the drug that patient {patient_id} was [time_filter_exact1] prescribed [time_filter_global1]?
+when was the [time_filter_exact1] microbiology test of patient {patient_id} [time_filter_global1]?
+what is_verb the marital status of patient {patient_id} [time_filter_global1]?
+what was the [time_filter_exact1] ward of patient {patient_id} [time_filter_global1]?
+what was the [time_filter_exact1] measured height of patient {patient_id} [time_filter_global1]?
+list the [unit_average] [agg_function] volume of {intake_name} intake that patient {patient_id} received [time_filter_global1].
+count the number of patients who were prescribed {drug_name} [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1].
+has_verb patient {patient_id} had any microbiology test result [time_filter_global1]?
+when was the [time_filter_exact1] time that the {vital_name} of patient {patient_id} was [comparison] than {vital_value} [time_filter_global1]?
+what was the name of the drug that patient {patient_id} were prescribed [n_times] [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} had a {intake_name} intake [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} was prescribed {drug_name} [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} had the [sort] value of {lab_name} [time_filter_global1]?
+list the [unit_average] [agg_function] {vital_name} of patient {patient_id} [time_filter_global1].
+what are_verb the top [n_rank] frequently prescribed drugs that patients aged [age_group] were prescribed [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+what are_verb the top [n_rank] frequent lab tests of patients aged [age_group] [time_filter_global1]?
+what are_verb the top [n_rank] frequent diagnoses that patients were diagnosed [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+what was the [time_filter_exact1] measured {vital_name} of patient {patient_id} [time_filter_global1]?
+is the value of {lab_name} of patient {patient_id} [time_filter_exact2] measured [time_filter_global2] [comparison] than the [time_filter_exact1] value measured [time_filter_global1]?
+when was the [time_filter_exact1] prescription time of patient {patient_id} [time_filter_global1]?
+list the [unit_average] [agg_function] volume of {output_name} output that patient {patient_id} had [time_filter_global1].
+what was the name of the intake that patient {patient_id} [time_filter_exact1] had [time_filter_global1]?
+has_verb patient {patient_id} received any diagnosis [time_filter_global1]?
+what is the date of birth of patient {patient_id}?
+when was the [time_filter_exact1] time that patient {patient_id} received a {procedure_name} procedure [time_filter_global1]?
+what are_verb the top [n_rank] frequent procedures that patients received [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+has_verb patient {patient_id} had any {intake_name} intake [time_filter_global1]?
+what was the total volume of {output_name} output that patient {patient_id} had [time_filter_global1]?
+count the number of drugs patient {patient_id} were prescribed [time_filter_global1].
+when was the [time_filter_exact1] time that patient {patient_id} received a {lab_name} lab test [time_filter_global1]?
+count the number of patients who received a {procedure_name} procedure [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1].
+what is the [n_survival_period] survival rate of patients who were prescribed {drug_name} after having been diagnosed with {diagnosis_name}?
+list the hospital admission time of patient {patient_id} [time_filter_global1].
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} received a {lab_name} lab test on the current hospital visit?
+count the number of patients who received a {culture_name} microbiology test [time_filter_global1].
+has_verb patient {patient_id} had any {culture_name} microbiology test result [time_filter_global1]?
+what was the total volume of intake that patient {patient_id} received [time_filter_global1]?
+what is the [n_survival_period] survival rate of patients diagnosed with {diagnosis_name}?
+has_verb patient {patient_id} been admitted to the hospital [time_filter_global1]?
+what are_verb the top [n_rank] frequently prescribed drugs of patients aged [age_group] [time_filter_global1]?
+what was the [time_filter_exact1] careunit of patient {patient_id} [time_filter_global1]?
+what was the [time_filter_exact1] length of icu stay of patient {patient_id}?
+count the number of times that patient {patient_id} had a {intake_name} intake [time_filter_global1].
+what is_verb the name of insurance of patient {patient_id} [time_filter_global1]?
+what are_verb the top [n_rank] frequent diagnoses that patients were diagnosed [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+what are_verb the top [n_rank] frequent procedures [time_filter_global1]?
+when was patient {patient_id}'s [time_filter_exact1] {culture_name} microbiology test [time_filter_global1]?
+when was the [time_filter_exact1] lab test of patient {patient_id} [time_filter_global1]?
+what is the change in the value of {lab_name} of patient {patient_id} from the [time_filter_exact2] value measured [time_filter_global2] compared to the [time_filter_exact1] value measured [time_filter_global1]?
+list the ids of patients diagnosed with {diagnosis_name} [time_filter_global1].
+count the number of patients who stayed in ward {ward_id} [time_filter_global1].
+has_verb patient {patient_id} received any procedure [time_filter_global1]?
+has_verb the {vital_name} of patient {patient_id} been normal [time_filter_global1]?
+count the number of patients who received a {procedure_name2} procedure [time_filter_within] after having received a {procedure_name1} procedure [time_filter_global1].
+count the number of patients who did not come back to the hospital [time_filter_within] after diagnosed with {diagnosis_name} [time_filter_global1].
+has_verb patient {patient_id} had any {output_name} output [time_filter_global1]?
+count the number of times that patient {patient_id} received a {lab_name} lab test [time_filter_global1].
+count the number of patients who had a {intake_name} intake [time_filter_global1].
+what is the gender of patient {patient_id}?
+has_verb patient {patient_id} received a {procedure_name} procedure [time_filter_global1]?
+what are the top [n_rank] diagnoses that have the highest [n_survival_period] mortality rate?
+what are_verb the top [n_rank] frequent lab tests that patients had [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?
+count the number of patients who were discharged from the hospital [time_filter_global1].
+when was the [time_filter_exact1] hospital admission time that patient {patient_id} was admitted via {admission_route} [time_filter_global1]?
+what was the dose of {drug_name} that patient {patient_id} was [time_filter_exact1] prescribed [time_filter_global1]?
+what was the [agg_function] {lab_name} value of patient {patient_id} [time_filter_global1]?
+what was the [time_filter_exact1] measured value of a {lab_name} lab test of patient {patient_id} [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} had the [sort] {vital_name} [time_filter_global1]?
+what is the difference between the total volume of intake and output of patient {patient_id} [time_filter_global1]?
+count the number of patients who were prescribed {drug_name} [time_filter_global1].
+count the number of times that patient {patient_id} were prescribed {drug_name} [time_filter_global1].
+what are_verb the top [n_rank] frequently prescribed drugs that patients were prescribed [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+what is the new prescription of patient {patient_id} [time_filter_global2] compared to the prescription [time_filter_global1]?
+when was the [time_filter_exact1] time that patient {patient_id} had a {vital_name} measured [time_filter_global1]?
+what was the [time_filter_exact1] length of hospital stay of patient {patient_id}?
+when was the [time_filter_exact1] procedure time of patient {patient_id} [time_filter_global1]?
+how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} stayed in ward {ward_id} on the current hospital visit?
+what was the name of the procedure that patient {patient_id} received [n_times] [time_filter_global1]?
+has_verb patient {patient_id} been to an emergency room [time_filter_global1]?
+what are_verb the top [n_rank] frequent specimens tested [time_filter_global1]?
+what was the name of the drug that patient {patient_id} was prescribed [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?
+count the number of patients who were admitted to the hospital [time_filter_global1].
+count the number of {drug_name} prescription cases [time_filter_global1].

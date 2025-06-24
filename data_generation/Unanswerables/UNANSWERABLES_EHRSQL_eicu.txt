@@ -1,0 +1,715 @@
+any test appointment of patient 022-187132 today?
+what drugs are being administered to patient 007-1517 to provide sedatives?
+is patient 006-47576 a person with a family history of any health problems?
+what is the code that corresponds to icd-11 for thrombocytopenia in icd-10?
+when does patient 009-13409 stop being quarantined from the influenza flu?
+tell me what to prepare before the tracheostomy - conventional procedure
+what are the steps after the neurology consultation?
+tell me the address of patient 004-29334 and why?
+whats the efficacy of lorazepam 0.5 mg tab?
+when was the last time that patient 033-22108 had a medication that was regularly taken?
+does patient 005-18714 have an appointment for any test today?
+what kind of drugs are you giving patient 030-53717 as antibiotics??????
+can you give me the address of patient 009-5001?
+describe all prescriptions that patient 015-23047 received in the other department.
+has patient 030-64961 ever had any side effects while he/she is receiving a blood transfusion?
+what medicine does patient 006-2586 take after being prescribed by our hospital's other department?
+what is the ward id that allows patient 010-37499 to be admitted?
+what's the phone number of the dr responsible for patient 006-140729?
+tell me about all the tests that patient 005-11182 took in other department.
+what should not be administered during a analgesics - continuous parenteral analgesics procedure?
+wanna the last time that patient 016-34426 had a medication that should be taken regularly?
+from which age is propofol allowed to be used?
+the name of the diagnosis received by patient 032-24135 at the other department.
+i.e. what is the address of patient 002-64535?
+is there a code that matches icd-11 for seizures - from ischemia/infarction in icd-10?
+what is the cell telephone number of patient 032-12408?
+yo, can i use lorazepam from what age?
+what is the ward identification of patient 031-15666 able to be admitted to?
+when is the earliest appointment for patient 017-45919 for other departments?
+what is the code in icd-10 that corresponds to icd-11 for hypothyroidism - primary?
+when was last time patient 025-24306 had a medication that is something to take all the time...
+what's the result of patient 004-64091's last covid-19 test?
+it is regulated by gender on potassium chloride 20 meq/100 ml iv piggy back : 100 ml bag.
+tell me the blood type of patient 006-153198?
+what are the precautions that should be followed after the procedure of eeg monitoring?
+what are the results of mri testing of patient 022-3289?
+what medications are being given to patient 012-31752 to induce sedation?
+what is the phone number of the doctor in charge of patient 016-29746?
+are there any gender restrictions on the product 1 ml : hydromorphone hcl pf 1 mg/ml ij soln?
+what are the precautions after the systemic antibiotics - vancomycin procedure?
+what's up with the top 10 most recent papers on septic shock?
+which are the ten most recent papers on hypothyroidism?
+does patient 032-3281 have any overseas experience?
+it is permitted to be used in nitroglycerin 0.4 mg sublingual tablet from what age?
+when does patient 030-47098 get his or her influenza quarantine finished?
+can you please give me the phone number of patient 013-28507?
+what's the end date of patient 018-20179's influenza quarantine?
+did patient 025-53910 give the result from covid 19?
+can you tell me the phone number of the doctor who is in charge of patient 027-151154?
+when does patient 016-6009's influenza quarantine end?
+when will patient 004-17866 be next seen by the hospital?
+does patient 012-66291 have any tests left to do before discharge?
+what is the opioid dosage prescribed for patient 009-5351?
+can u help me in knowing the phone number of patient 027-73025's guardian
+can you please elaborate on a ward identification that you can use to admit patient 013-3028?
+what is the physical address of patient 025-44495?
+did patient 015-96048 tell you of that covid19 test?
+during a blood transfusion has patient 006-2586 ever experienced any side effects?
+active: what drug can be prescribed for patients diagnosed with hypothyroidism - primary?
+what is the drug name that should not be administered during the implantation of heart pacemaker - permanent procedure?
+what antibiotic is it given to patient 006-105495
+if so what is patient 016-18150's companion number?
+provide me with the name of the diagnosis patient 031-4987 received in the other department.
+what is the age restriction of aspirin (baby asa) 81 mg tab?
+patient 006-140729 is subject to covid-19 testing
+has patient 015-23047 ever had any complication when undergoing a blood transfusion?
+what is the code in icd-11 for upper respiratory obstruction - due to tumor in icd-10?
+did patient 015-66570 tell you the covid19 test result?
+what are the side effects of levofloxacin in d5w 500 mg/100ml iv soln over a long period of time?
+is there a gender restriction on epinephrine?
+what doctor did patient 027-68991 see when he or she visited the oncology department last?
+will they have any urine, voided specimen test done for patient 009-424?
+i would love to know the name of the diagnosis that patient 021-25705 received in the other department.
+what is the address of patient 016-30273.
+when will patient 025-28600 have his next mri scan?
+what are the top 10 side effects reported for drug carvedilol 25 mg po tabs
+please tell me what to prepare for the urine alkalinization - sodium bicarbonate procedure
+when patient 010-16168 goes into insulin - sliding scale administration?
+does patient 012-40970 have previous overseas travel?
+which is the result of patient 017-49538's last covid-19 test?
+what are the ten most recent articles on failure to wean?
+does patient 032-4849 have an overseas history of travel?
+which doctor was patient 017-83812 last seeing at the ophthalmology department?
+when was the last time patient 005-73237 had a medication which should be regularly taken?
+whats the phone number of the dr who is taking care of patient 004-13127
+tell me all the tests that patient 002-8416 in other departments carried out.
+what is the type of blood patient 010-16572 has.
+does patient 022-187132 have a family history of av block?
+and when does patient 004-86136 go into the administration of electrolytes - magnesium procedure?
+tell me the most recent paper on cocaine overdose?
+tell me the prescriptions patient 027-61708 has received from the other department.
+if so is there a genetic test that patient 010-9756 gets?
+what is the number of patient 002-32312's companion phone number
+well tell me what to do ahead of the endotracheal tube removal procedure
+what is the code which is assigned to icd-11, to referring to seizures - partial complex that occurs in icd-10?
+when does patient 007-4371 end his/her flu quarantine.
+what kind of blood patient 022-6959 has.
+when was the last time patient 035-20156 had a medication which should be taken daily?
+what is the code in icd-11 for pneumonia - community-acquired in icd-10?
+what are the 10 most recent papers on cardiac arrest? &
+does albumin human give you side effects?
+please tell me the telephone number of patient 027-8953's companion.
+what's the ward id patient 015-33415 can go to?
+is patient 006-100609 subject to the test covid-19?
+does patient 009-12221 have a record of coagulopathy in his / her family?
+what was the duration of the antibiotics - carbapenem procedure for patient 005-4044?
+what is the impact of propofol 10 mg/1 ml 100ml sdv inj?
+does patient 030-80270 have a trip history overseas?
+what is the contact information for patient 027-136480's guardian?
+what is the name of the drug that should not be administered during the mechanical ventilation?
+where can i get the phone number of the doctor who cares for patient 013-33898?
+does patient 013-11660 have a plan to come back after that hospital visit, including other departments?
+what steps should i take before the bicarbonate - sodium bicarbonate procedure?
+does patient 005-48105 get pet-ct readings?
+do you know what type of blood patient 009-3149 has?
+what is the phone number of the doctor who is going to become responsible for patient 015-91239?
+i got a question...and is it a gender limit on furosemide?
+what is the ward id that patient 006-122712 may be admitted?
+what is the telephone number of patient 013-29301's guardian?
+what kind of drugs are you giving patient 006-195316 as antibiotics??????
+can i tell if patient 022-43717 has acute respiratory failure - due to obstructive lung disease in hisher family?
+when does patient 030-47098 stop being quarantined from the influenza flu?
+top 10 side effects of the drug 100 ml glass cont : iopamidol 61 % iv soln?
+can you list the 10 most recent papers on coronary artery disease - known? why?
+what are the 10 most recent papers on headache - hydrocephalus? &
+does patient 011-31229 have a family history of metabolic acidosis - uremic acidosis?
+which doctor saw patient 002-38474 in the cardiology department last time?
+does patient 016-5834 have overseas travel history?
+what the name of the diagnosis that patient 025-44842 received in the other department?
+did the consent form for ct scan be fill out by patient 027-22704
+so tell me what to do before you go for mechanical ventilation.
+de what age is allowed to use dextrose 50% 25 gram/50 ml syr?
+when does patient 025-44842 end his/her flu quarantine.
+did patient 005-8370 actually fill out the consent form for a ct scan?
+what kind of antibiotic is it given to patient 031-16123?
+what test is patient 022-199074 going to have today?
+has patient 008-32147 ever experienced a side effect during a blood transfusion?
+what is the appropriate drug to be prescribed to someone diagnosed with atelectasis/collapse?
+when will patient 006-133605 receive their next mri scan?
+which physician was patient 017-47390 with when they visited the obstetrics and gynecology department?
+is patient 017-61209 aware of any ill effects of blood transfusion?
+when does patient 032-24135 cease to be quarantined from influenza?
+which doctor did patient 021-111547 see when heshe last visited the rheumatology department?
+is there any gender restrictions on metoprolol tartrate (lopressor) inj 5 mg?
+what age is permitted to be used with enoxaparin 40 mg/0.4 ml syr?
+what is the type of blood patient 029-16431 has.
+does patient 013-36766 have any remaining tests before discharge?
+is patient 031-4987 planning to attend other departments after the hospital visit?
+i want to know what is the age limit of ondansetron 2 mg/1 ml 2ml sdv inj.
+what drugs are being administered for patient 018-115975 as sedatives?
+what are the drugs given as sedatives to patient 031-23605?
+when is the earliest next hospital visit of patient 010-5895?
+what is the blood type of patient 027-22704?
+what is the dosage of the prescribed opioid for patient 002-34744?
+what do you think is the gender limits on calcium gluconate 10%?
+i would like to learn some tips on how to prepare for the cultures procedure.
+does patient 016-38131 have any inherited disease?
+how are the precautions after the cultures - urine procedure?
+what kind of drugs do they use to treat patient 002-62783 like antibiotics
+list the preparations for mechanical ventilation
+whats the phone number of the doctor who is taking care of patient 015-23047.
+will patient 005-11182 be provided with any additional blood, venipuncture test?
+let me know all the tests that patient 006-123134 took in the other department
+wann does patient 006-172277 go to influenza vaccine?
+what is nitroglycerin 0.4 mg(1/150) sl tab? what is its effect?
+tell the name of the diagnosis that was received by patient 016-35481 at the other department.
+what are the 10 newest papers on intra-abdominal abscess - postoperative.
+do you think patient 032-12408 is subject to covid-19 testing?
+what drugs are being administered for patient 028-61375 as antibiotics
+and how to find the code that shows icd-11 for chronic kidney disease - stage 3 (gfr 30-59) in icd-10.
+i need the name of the diagnostic that patient 017-45919 received in the other department
+what is the age restriction on lidocaine hcl 1 % inj soln?
+does patient 012-3291 have any plans for other departments to visit after the current hospital visit?
+does patient 027-69449 have any remaining tests before being discharged from the hospital?
+tell me the type of blood of patient 006-143187?
+what is the time of the next mri scan for patient 010-38092?
+inform me of the tests that patient 025-19271 took in a different department.
+tell me the type of blood of patient 006-122567?
+if so what is the phone number of patient 007-7646s guardian?
+do you know what type of blood patient 006-105495 has?
+when is the earliest of patient 022-6959's next visit to other departments?
+is patient 031-24513 subject to a covid-19 test?
+how long ago did patient 030-75705 receive a medication that should be taken regularly?
+how i can get patient 016-19759's guardian's phone number??
+mri when is the next scan of patient 005-68848?
+tell me the dose of an opioid prescribed to patient 006-105495?
+what is the name of the diagnosis that patient 027-135082 received from the other department?
+is patient 008-186 in the family of a person with bone fracture(s) - right lower extremity?
+what is the list of ten most recent papers on alcohol withdrawal?
+is there any gene testing that patient 008-40862 had?
+which doctor were patient 030-80270s seen when they last visited the cardiology department?
+who did patient 013-28507 see when she or he last went to the oncology department.
+what drugs are administered to patient 012-63986 as sedatives?
+what is the code that corresponds in icd-10 to icd-11 for intracranial injury - with intracerebral hemorrhage?
+does patient 002-30780 have a history of travelling overseas?
+have patient 012-63427 completed the consent form for the ct scan?
+is there a drug that could be prescribed to treat valvular stenosis.
+has patient 017-101426 a plan to visit her current hospital after the current hospital visit, including other departments?
+who patient 018-47575 saw when they last went to hematology?
+can you please tell me the name of the diagnosis that patient 027-82318 received from the other department?
+was patient 004-13672 signed a blood transfusion consent form?
+how do i take precaution after the analgesics - bolus parenteral analgesics procedure?
+please tell me the telephone number of patient 007-9626's companion.
+do you mean that patient 013-11660 filled out the consent form for a ct scan?
+i want to ask what are the results of patient 004-86136 petct examination?
+does patient 022-199074 have seizures - suspected that is part of her family?
+has patient 022-127262 a plan to visit after the hospital visit, including other departments?
+does patient 007-2065 have some overseas travel history.
+what is the number of phone numbers of patient 006-50099's guardian?
+please send me the name of the diagnostic diagnosis patient 012-18025 received at the other department.
+if patient 005-86645 is getting an mri scan... when will it be next?
+what precautions should i take after a plastic surgery consultation procedure?
+when was the last time that a medication that should be taken regularly was had by patient 006-118236?
+does patient 007-15837 have any other left?
+what are the side effects of long-term administration of 2 ml vial : ondansetron hcl 4 mg/2ml ij soln?
+has any side effects been experienced by patient 002-77945 during a blood transfusion
+what is the dose of prescribed opioid for patient 031-22988?
+does patient 025-28600 have any procedure appointment today?
+tell me all the prescriptions that patient 025-44495 received in the other department.
+what is the code which corresponds to the icd-11 for pain in icd-10?
+does patient 027-154299 have a report of respiratory acidosis in his / her family?
+the last time patient 027-82318 had something to take on a regular basis?
+ist patient 006-167444 able to get x-ray readings?
+is there a gender restriction on the allopurinol 100 mg po tabs?
+what was the duration of antihyperlipidemic agent - hmg-coa reductase inhibitor for patient 022-100453?
+when was the last time that patient 006-143187 had a medication that should be taken regularly?
+tell me the blood type of patient 017-59454?
+was patient 015-23047 given a consent form for blood transfusion?
+what was the total length of foley catheter procedure for patient 008-30575?
+what precautions should i take after a neuromuscular blocking agent procedure?
+when will patient 031-11804 next go to the hospital?
+what is the name of the drug that should not be administered during the vasopressors - phenylephrine (neosynephrine) procedure?
+what is the name of the drug which should not be administered during the sedative agent - dexmedetomidine procedure?
+what is the dosage of an opioid given to patient 013-33898?
+tell me all the prescriptions that patient 027-142835 received at the other department.
+is patient 013-12480 having a history of acute pulmonary edema - due to renal dysfunction in his/her family?
+did patient 022-6959 report the covid 19 test result?
+tell me the name of the diagnosis that patient 027-188709 received in the other department
+what's the result of patient 025-19271's ct scan?
+does patient 035-9193 have a plan to visit after the current hospital visit, including other departments?
+so what are the types of blood patient 017-13959 has.
+is there a genetic test that was given to patient 015-21757?
+what are the last tests for patient 006-97726 today.
+when does patient 003-17096 come into the intracranial/cerebral perfusion pressure monitoring - ventriculostomy process?
+can anyone help me determine the code that corresponds to icd-11 and for congestive heart failure in icd-10?
+i.e. what is the address of patient 022-199074?
+what are the results of an mri evaluation of patient 031-3507?
+what is the effect of the enoxaparin sodium 40 mg/0.4ml sc soln?
+did it happen on the last occasion that patient 006-149778 had a medicine they should take daily?
+what is digoxin's side effect?
+is there any side effects to pneumococcal polysaccharides?
+is the type of blood of patient 022-76925?
+what are the top ten side effects reported for drugs like lasix?
+what is the checklist you need to follow in advance of your drug levels procedure?
+what should i do following the tracheal suctioning procedure?
+when is patient 003-48563's next mri scan?
+can you list the 10 most recent papers on s/p knee surgery - replacement and why?
+what is the result of patient 006-47576's last covid-19 test?
+w/is the code that corresponds to icd-11 for depression in icd-10?
+i need to know if there is any gender restraint on nss 0.9% 1,000 ml bolus infusion
+? does patient 030-42006 have any remaining test before hospital discharge?
+does patient 013-38992 have any travel history abroad?
+what is the telephone number of the doctor who cares for patient 027-8953?
+do you think that ondansetron hcl (pf) 4 mg/2 ml injection 2 ml vial has side effects?
+what is the name of the drug that should not be administered during the vasopressors - vasopressin treatment?
+you may be able to share all of the tests patient 006-105495 took in another department.
+what kind of blood patient 010-6010 has.
+does insulin aspart 100 unit/ml sc soln have side effects?
+is the x-ray result of 029-7028 ready?
+what to prepare for the c. difficile toxin procedure?
+what do the precautions be after the influenza vaccine procedure?
+is patient 035-2205 scheduled to have an appointment in another department?
+is patient 017-88691 subject to a test for covid-19?
+help me tell the name of the diagnosis patient 006-105495 received in the other department.
+who was the last doctor patient 006-157753 saw in the obstetrics and gynecology department?
+what are the precautions that are incurred after undergoing a electrolyte administration - oral procedure?
+whats the efficacy of propofol?
+what is the phone number of patient 021-198501?
+just tell me the tests patient 006-172277 took in a different department
+what doctor did patient 035-24054 see at last in the general surgery department?
+when does patient 030-8973 cease to be in a quarantine for influenza?
+just a quick look antifungal therapy but how long did it take for patient 015-52724??????
+if so what is patient 028-66126's companion number?
+is there any record of biliary obstruction - cholelithiasis in patient 031-4423's family?
+what are the precautions to take after the neurology consultation procedure?
+when does patient 006-158338 go into the administration of electrolytes - magnesium procedure?
+what is the precautionary measure following the aneurysm resection / repair procedure?
+did patient 027-23129 sign a blood transfusion consent form?
+whats the outcome of the mri of patient 035-24054?
+did patient 030-53416 give the result from covid 19?
+does patient 015-67291 have experience with overseas travel?
+i need to know the phone number of patient 021-111547's guardian.
+which are the top 10 side effects reported for drug potassium chloride crys er 20 meq po tbcr?
+what is the telephone number of patient 016-14220's companion?
+what precautions should i take after a administration of saline solution procedure?
+have you ever had a test appointment of patient 032-1755 today?
+what is the earliest visit of patient 025-44495 to other departments?
+did patient 025-28600 sign a consent form for the transfusion of blood?
+do patient 006-105495 have a appointment in another department?
+when patient 032-24135 will get his next mri?
+is patient 006-133605 subject to tests to determine if he has covid-19.
+what medication can be prescribed to patients who are diagnosed with pulmonary aspiration?
+when was the last time patient 032-25571 had medication that should be regularly taken?
+do you think patient 007-4322 has drug withdrawal syndrome - alcohol in his or her family?
+do you know if patient 004-86136 has an appointment today for any test.
+patient 027-61708 is subject to covid-19 testing
+does patient 022-109861 have a traveling history abroad?
+what is the list of things to do before you go through the antiarrhythmics - class i antiarrhythmic procedure?
+can you list the side effects of taking prinivil?
+what are the top 10 side effects reported for atorvastatin 40 mg tab the drug?
+does patient 021-240586 still have any tests before discharged from the hospital?
+what are the most common side effects of albuterol sulfate (2.5 mg/3ml) 0.083% in nebu?
+what drug can be prescribed for patients diagnosed with hypotension?
+what is a checklist before vasopressors - dopamine >15 micrograms/kg/min?
+when does patient 015-60828 get in the vasodilator - hydralazine procedure?
+which test will patient 027-142835 be subjected to today?
+what precautions should you follow after the vasopressors - norepinephrine <= 0.1 micrograms/kg/min procedure?
+do you think patient 021-95970 has an appointment in another department?
+tell me the details of the tests performed by patient 004-32341 in the other department.
+does patient 005-87465 have any remaining test before hospital discharge?
+did patient 027-165214 submit a report about the covid-19 test result?
+is there a test that patient 028-55503 had been given?
+is there any genetic test that patient 035-4312 received?
+what procedure has patient 015-23047 scheduled for today?
+have patient 006-36108 a plan to visit after the current hospital visit, including other departments?
+can you please share with me the name of the diagnosis that patient 006-193056 received in the other department?
+where can i get the phone number of the doctor who cares for patient 005-4471?
+was there a genetic test that patient 031-3507 received?
+ig? what are the top 10 side effects reported for drug klonopin?
+what is dextrose 50 % in water (d50w) iv syringe? what are its effects?
+does patient 015-16057 have a documented record of s/p maze procedure in his / her family?
+has patient 017-20711 had any ill effects during a blood transfusion?
+what drugs are being administered for patient 008-10139 as antibiotics?
+did patient 030-42006 put in the consent form for a ct.
+what medicine should be given to chest pain patients?
+does patient 035-13344 have experience travelling abroad?
+what are the results of patient 016-18575's pet-ct examination?
+what is the age of the benadryl to be used?
+do you know of the drug that is not to be administered during the stress ulcer treatment - famotidine procedure?
+are you able to find a procedure appointment for patient 031-11804 for today?
+does patient 027-154299 have a appointment at another department?
+tell me of the tests patient 022-78423 has taken in the other department.
+what is the effect of furosemide 10 mg/ml inj soln?
+what medications are given as sedatives for patient 006-195316?
+who was the last doctor that patient 031-17834 saw at the anesthesiology department?
+do you have any other appointments left for patient 006-195541?
+did patient 031-3355 take part in the consent form for the ct scan?
+when is the earliest of patient 012-4131's next visit to other departments?
+do you know the ward id of patient 009-9251 to which they are admitted?
+did patient 005-26011 do a consent to a ct scan?
+whats the outcome of the mri of patient 025-28600?
+what medicine does patient 022-142620 take after being prescribed by the other medical department of our hospital?
+what are 10 most recent papers on sepsis - sepsis with single organ dysfunction- metabolic encephalopathy?
+what was the duration of the ferrous iron compound - iron sucrose procedure for patient 015-91239?
+does patient 006-254232 have a genetic test that they got?
+what are the 10 most common side effects of fentanyl??
+are there any gender restrictions on the product furosemide (lasix) injection 40 mg?
+whats the results of patient 009-1746's pet ct examination?
+what is the ward id that patient 022-47232 can be admitted?
+tell me all the tests that were taken by patient 025-51980 in other departments.
+which doctor did patient 006-133605 see last when they visited the obstetrics and gynecology department?
+when patient 025-57841 will get their next mri scan?
+what side effects does famotidine 20 mg po tabs have?
+what antibiotic is prescribed to patient 002-56853?
+what kind of medicine does patient 007-10135 take when they get a prescription from another hospital?
+do you think patient 011-36282 is subject to covid-19 testing?
+do you have an idea when patient 017-94690 goes into the mannitol - bolus .25-.5 gms/kg procedure?
+do you see any procedures scheduled for patient 031-4987 today?
+do you think percocet 5/325 tab is a gender restricted drug?
+tell me all the tests that patient 027-203413 took in other departments are explained by me
+what kind of medicine does patient 006-66713 take after they got the instruction of another department at our hospital
+do you think ondansetron (zofran) injection 4 mg is a gender restricted drug?
+what are the results of mri examination for patient 016-6009?
+whats the efficacy of furosemide 80 mg po tabs?
+what is the impact of long term use of metoprolol tartrate?
+tell me the address of patient 032-18678 and why?
+how long took laxatives - lactulose for patient 006-97726?
+what type of medication can be prescribed for patients who have been diagnosed with acute respiratory distress?
+what is the number of patient 002-4486's guardian's phone?
+so, when is the earliest patient 027-136854 is going to come in the hospital?
+what's up with the top 10 most recent papers on arterial thromboembolism - left upper extremity?
+is patient 015-91239 subject to covid-19 testing?
+list the drugs that should not be administered during therapeutic antibacterials - vancomycin?
+are you letting me know if patient 028-39354 is subject to covid-19 testing?
+the phone number of patient 006-70268 is
+have you seen patient 006-80884 receiving additional blood, venipuncture tests?
+do patient 006-80884 have a plan to visit other departments after his current hospital visit?
+how soon is patient 006-43795's next hospital visit?
+where can i find the phone number of patient 004-66442's guardian?
+what is the drug to avoid during the valve replacement or repair.
+do they have a gender limit to potassium chloride 20 meq ud liq?
+tell me the address of patient 006-83902 and why?
+the earliest hospital visit of patient 030-42006?
+‚äì what drugs are being administered for patient 027-132801 as sedatives?
+is there any remaining appointment for patient 027-186593?
+which physician was patient 002-35416 with when they visited the cardiology department?
+what medications are being prescribed to patient 030-31704 that are considered sedatives?
+has patient 010-32430 had any other sputum, tracheal specimen tests?
+tell me all the tests patient 006-133605 took in other departments.
+which drug can be prescribed for patients with protein-calorie malnutrition diagnosed?
+let me know what i'll need to prepare for the physical medicine consultation procedure
+dosage of opioid prescribed for patient 031-15666?
+can you list the address of patient 008-186?
+what is a drug that should not be administered during enteral feeds - nutritional supplement?
+how long does patient 010-26737's influenza quarantine end?
+hey jo, tell me what that diagnosis was that patient 006-76924 got in that other department
+tell me about all the medications that patient 031-3355 received in the other department.
+tell me the blood type of patient 005-48105?
+does patient 025-51980 have an appointment for surgery today?
+what is the medication that patient 006-172277 takes after that other department gives them?
+give me the name of the diagnosis patient 009-5001 had in the other department
+what is the telephone number of the doctor in charge of patient 004-11043?
+does patient 010-1155 have traveled abroad?
+please inform me of the phone number of patient 022-78464's guardian.
+does patient 030-77184 have any history of acute respiratory failure in his / her family?
+has patient 027-178044 completed a ct scan agreement?
+when is the next mri - scan of patient 027-141930?
+which doctor did patient 006-122712 see when he or she last visited the hematology department?
+what drugs are they giving patient 028-40370 to relax their mind?
+which doctor were patient 007-13494s seen when he or she last visited the urology department?
+i want to know what the antibiotic is given to patient 027-82318
+i mean, what kinds of side effects does potassium chloride crys er 20 meq po tbcr have?
+has patient 006-2586 had a family history of a disease?
+tell me the procedure that patient 025-19271 is scheduled to have today?
+tell me the dose of an opioid prescribed to patient 015-52724?
+did patient 018-99743 talk about the covid-19 test result?
+what medications are given as antibiotics for patient 021-239662?
+what the code that refers to icd-11 for s/p liver transplant in icd-10?
+when was the last time that patient 009-15 had a medication that should be taken daily?
+the age limit for the 0.4 ml syringe : enoxaparin sodium 40 mg/0.4ml sc soln?
+what about the results of patient 011-41829's ct scan.
+when does patient 005-48105 end his/her flu quarantine.
+what was the insertion of thoracostomy tube time for patient 017-59454?
+does an appointment have been had by patient 031-3507 in other department?
+can you tell me the telephone number of patient 031-17834's companion?
+tell me what tests patient 010-21105 did in other department
+what are the drugs that are being given to patient 031-1337 as sedatives?
+tell me all the tests that patient 006-21143 took in other department.
+does patient 021-32860 have a travel history to another country?
+when does patient 006-2586 enter into the analgesics - non-narcotic analgesic procedure?
+will patient 007-16517 get any sputum, expectorated tests???
+did patient 004-86136 sign a consent form for a ct scan?
+provide me with all of the prescriptions received by patient 003-42706 in another department.
+tell me the address of patient 016-18575?
+what is the length of time patient 013-12480 had to undergo influenza vaccine?
+when did patient 006-203526 last have medication that should be taken regularly?
+what side effects is longterm administration of hydralazine 20 mg/1 ml 1 ml inj?
+i dont know and i'm asking, what are the top 10 side effects of sodium chloride 0.9% 500 ml pb?
+how old is 100 ml flex cont : magnesium sulfate in d5w 10-5 mg/ml-% iv soln allowed to be used?
+is patient 030-44598 planning to attend other departments after the hospital visit?
+ya do you know if there was a genetic test patient 022-187132 received?
+what is the dose of the opioid prescribed for patient 027-61708?
+please tell me the exact prescriptions patient 005-9883 received from the other department.
+tell me all of the tests that patient 005-12192 took at another department.
+did patient 027-140654 experience side effects during a blood transfusion?
+how long did it take to get influenza vaccine for patient 011-23004?
+tell me the age at which sodium chloride 0.9 % syringe : 10 ml syringe should be used?
+what is the id of the ward where patient 033-22108 can be admitted?
+what is the ward identification of patient 006-1629 able to be admitted to?
+what side effects does morphine sulfate have on the body?
+did patient 013-36766 have overseas travel history?
+the phone number of patient 015-57922's companion is
+has patient 032-9230 ever had any additional other tests done.
+is patient 006-40255 has a plan to visit after the current hospital visit, including other departments?
+tell me what to prepare before the esophagogastroduodenoscopy - with chemocautery procedure :
+what's the effect of clonidine?
+what is the phone number of the doctor who is going to become responsible for patient 004-65311?
+tell me what diagnosis patient 006-81423 received at the other department.
+has patient 031-17834 experienced any side effects during a blood transfusion?
+what type of test is patient 030-52327 likely to undergo today?
+what was the time it took for patient 006-205326 to undergo non-cardiac angiography - cerebral arteriogram?
+can you please explain the telephone number of the doctor who is in charge of patient 003-10080?
+did patient 031-3355 record the result of covid-19 test?
+will patient 007-4119 get any additional sputum, tracheal specimen test?
+what are the precautions to take after the antihypertensives - labetalol procedure?
+i am curious whether patient 028-25829 will have any tests today.
+does it have gender restrictions on potassium chloride inj?
+what can be prescribed for the empyema - right patient?
+what are the 10 most recent papers on obtundation?
+is patient 004-7984 tested for covid-19?
+when is the earliest scheduled hospital visit by patient 002-13750?
+how long did antiretrovirals (hiv) - protease inhibitors take for patient 031-19622?
+what are the sedative drugs being administered to patient 008-26792?
+has patient 016-26867 ever experienced any side effects while receiving a blood transfusion?
+what medications are being given to patient 021-111547 for sedation?
+does patient 006-80884 have any appointment to any surgery today?
+what is patient 033-12085's guardian's phone number?
+i would like to know all of the prescriptions patient 002-4486 received at the other department.
+have patient 005-19985 an appointment in another department?
+when is gabapentin 100 mg po caps allowed to be used?
+what is the name of the medication which should not be administered during the cultures - blood treatment?
+what is the contact phone number of patient 002-70965's companion?
+do you think patient 007-16517 has any procedure appointment today?
+what are the top 10 side effects reported for drug levofloxacin in d5w 500 mg/100ml iv soln?
+what is the dose of the prescribed opioid for patient 008-24610??
+where can i find the phone number of patient 031-23605's guardian?
+when should patient 016-18150 visit the hospital next?
+how long did patient 021-80293 receive endotracheal tube - insertion?
+what is the prescription dose of opioid for patient 027-168760?
+what is the prescribed opioid dose for patient 007-15837?
+does patient 027-3046 get mri readings?
+what medication is prescribed for the patients diagnosed with seizures - generalized tonic -clonic?
+what are the remaining tests that patient 027-4674 has today?
+do you have any suggestions for preparation for the vascular catheter placement - arterial procedure?
+what are side effects of long-term use of 0.9%nacl 1,000 ml?
+tell me the id of the ward where patient 013-28507 can be admitted?
+what is the top 10 side effect of bisacodyl?
+is that patient 003-33922 has an appointment in another department?
+has patient 005-77687 been administered any additional blood, venipuncture test?
+how old is the age limit xanax is ok?
+has patient 006-66713 set a visit plan that covers all departments after the current visit?
+do you suppose patient 016-35481 has experience side effects during a blood transfusion?
+can you list the most recent papers on chronic kidney disease?
+is patient 006-245995 to have had a travel history overseas?
+what is the dose of the prescribed opioid for patient 022-42472??
+can i use carvedilol 6.25 mg po tabs at what age?
+tell me all of the prescriptions patient 027-212090 was given in the other department
+i mean did patient 027-203413 report the covid-19 test result?
+when did patient 022-47232 last take a proper medication?
+are you letting me know if patient 006-127563 is subject to covid-19 testing?
+i want to know the ward id that patient 006-86236 can go in and get in?
+has patient 015-75226 an appointment at the other department?
+what is the name of the drug which should not be administered during the antiemetic - anticholinergic procedure?
+tell me all the prescriptions that patient 006-202970 received at the other department.
+can you list the address of patient 011-52460?
+when does patient 029-6419 get his or her flu quarantine ended?
+existe-t-il a genetic test that is recieved by patient 030-10407?
+inform me of all of the tests that patient 029-6419 took in another department.
+when will patient 004-66442 have their next mri?
+please inform me of all the prescriptions patient 027-142451 received in another department.
+what are the medication being administered for patient 012-29464 as sedatives?
+can you tell me what the drug can be prescribed for patients with hypoxemia - due to hypercarbia?
+did patient 015-57922 report the covid-19 test result?
+what should be done to stay safe after the glucose - juice or other oral glucose administration?
+i need the phone number of patient 006-172277 guardian.
+tramadol 50 mg tab what is its effect?
+has patient 007-7646 had an appointment in another department?
+is there any prescription medication for patients diagnosed with acute bronchiolitis?
+who patient 017-45919 saw when they last went to ophthalmology?
+which doctor did patient 031-4423 see in the hematology department?
+is there a genetic test that patient 028-55868 recieved?
+please tell me the name of the diagnosis patient 004-4326 received at the other department.
+what is the correct dosage of the prescribed opioid to patient 005-4471?
+how long did it take to get ultrasonography - abdomen for patient 012-66291?
+i want to know the ward id that patient 012-63427 can go in and get in?
+what's the name of the med that shouldn't be given during analgesics - continuous parenteral analgesics.
+what is the next mri scan of patient 011-55939?
+has patient 027-136480 been provided with additional sputum, expectorated test?
+from what age is clonidine permitted to be used?
+how often was the last time patient 010-6010 had a medication that should be regularly taken?
+what are the top 10 side effects of the drug propofol 10 mg/ml reported?
+tell me all the tests taken in the other department by patient 028-22327.
+how test is patient 012-35670 going to have today?
+when does patient 017-20711 end his/her flu quarantine.
+does there have a gender restriction on ketorolac inj?
+and if they did then did patient 002-59265 sign a blood transfusion consent form?
+did patient 005-87465 report a covid-19 test result
+what code is associated with icd-11 for abscess - head and neck - mastoiditis in icd-10?
+what is potassium chloride? what is its effect?
+when does the influenza quarantine end for patient 006-97726?
+does patient 006-254182 have anemia - anemia of renal disease in his family?
+please inform me of the phone number of patient 028-22327's guardian.
+when does patient 006-118236 end his or her influenza quarantine?
+what is the age limit of the drug ondansetron 2 mg/1 ml 2ml sdv inj?
+which doctor did patient 025-37141 see when heshe last visited the neurology department?
+what is the top 10 side effect of sodium chloride 0.9% 250 ml pb?
+whas the earliest patient 006-43795 goes to the hospital?
+has patient 010-20205 had any additional sputum, tracheal specimen test performed on him?
+tell me the most recent paper on oliguria - suspect atn?
+do patient 017-20711s fill out a consent form for a ct scan?
+what are the most common side effects attributed to metronidazole?
+which is the phone number of patient 025-19271?
+what is the adresse of patient 033-22108?
+when will patient 002-70965 have their next mri?
+what are the drugs being given to patient 017-49375 as sedatives?
+what is the phone number of the doctor able to administer patient 031-16123?
+can you please tell me the address of patient 004-29334?
+what is the opiate dose recommended for patient 005-68848
+will any additional sputum, tracheal specimen test be done on patient 030-10407?
+has patient 030-28944 an appointment in another hospital department?
+what is the ward id that patient 011-49649 may be admitted?
+has patient 006-157753 had a plan to visit after the current hospital visit, including other departments?
+the side effects of morphine sulfate 2 mg/ml ij/iv soln are shown by them
+ist patient 002-52932 subject to covid-19 testing
+what should i do in advance of angiotensin ii receptor blocker (arb) - valsartan
+does patient 016-9636 have an appointment in other department?
+what antibiotic is given to patient 006-158338?
+what medication should be prescribed to patients with anxiety?
+what precautions should you follow after the non-invasive ventilation procedure?
+what is the side effect of potassium chloride 40 meq inj?
+how do i find the phone number of the doctor in charge of patient 027-5581?
+yup, but what's the effect of glucagon (human recombinant) 1 mg/ml solution for injection?
+can you point to a genetic test that patient 012-18025 received?
+what is the type of blood that patient 007-9115 has?
+did patient 031-4423 give a covid19 result?
+when is patient 008-32147 next mri scan?
+what are the side effects of ecotrin ec?
+when patient 006-124193 is scheduled for the earliest hospital visit?
+do you know the ward id of patient 027-211129 to which they are admitted?
+what is the contact information for patient 010-12376's guardian?
+what kind of drug can you prescribe to sinusitis - radiographically demonstrated?
+whats the pre vte prophylaxis - conventional heparin therapy checklist?
+how long did patient 010-16627 have to undergo endotracheal tube removal?
+when will patient 027-203413 next receive an mri scan?
+what was the time it took for patient 015-7988 to undergo anticonvulsant - diazepam?
+tell me the age restriction of nafcillin? why?
+was are the side effects of long term morphine treatment?
+what is the dose of opiate prescribed for patient 027-142451?
+will patient 015-52724 receive any additional urine, catheter specimen test?
+have patient 009-5801s ever suffered any side effects from blood transfusions?
+does patient 006-77873 have a travel history from overseas?
+what is the correct dosage of the prescribed opioid to patient 021-35988?
+when is the earliest hospital visit for patient 002-56583?.
+whats the code that works with icd-11 acute coronary syndrome - unstable angina in icd-10?
+when will patient 025-44495 be next seen by the hospital?
+is patient 006-202970 a person with a family history of any disease?
+does patient 021-102856 have a history of overseas travel?
+but does patient 011-35642 have an appointment in other department?
+what antibiotic is given by patient 003-39724?
+can you tell me the id of patient 006-181433's ward that he or she may be admitted to?
+what is the name of the drug that shouldn't be administered during mechanical ventilation?
+has patient 013-29301 arranged an appointment with another department?
+can you point to a genetic test that patient 027-95744 received?
+if so is there any gender restrictions on epinephrine?
+what's the ward id that can get patient 017-24595 in?
+what is patient 007-8317's companion's telephone number?
+what is the age of warfarin sodium 5 mg po tabs is permissible to be used?
+what's the effect of potassium chloride?
+tell me the number of patient 028-45936?
+tell me the number of patient 017-61209?
+what is the effect of the morphine sulfate (pf) 2 mg/ml iv soln?
+what is the list of things to do before you go through the tracheostomy - performed during current admission for ventilatory support procedure?
+do you know patient 015-67291 went to another country?
+did patient 002-47556 ever have any side effects during a blood transfusion?
+did patient 006-35134 report the results of the covaric 19 test?
+what is the dosage of an opioid given to patient 006-172277?
+is patient 013-33898 having an appointment in another department?
+when will patient 013-33898 be able to visit other departments?
+what is the phone number of the doctor who is patient 033-12085's managing doctor?
+what is the name of the drug that is not to be given during mechanical ventilation - pressure controlled?
+what are the top ten side effects from the drug levofloxacin 750 mg in d5w 150ml?
+when patient 004-49903 ends the quarantine period in case of influenza?
+how patient 006-66713's number is the doctor in charge?
+what precautions should be taken after a fiberoptic colonoscopy - with chemocautery procedure?
+what's the result of patient 010-17950's ct scan?
+has patient 010-1155 a plan for another hospital visit after the current hospital visit, including other departments?
+is patient 031-16123 subject to tests involving covid-19?
+? what are the results of patient 028-11360's mri examination?
+what is the drug that isnt to be taken during exploratory laparoscopy??
+could you please tell me the name of the diagnosis patient 016-35481 received at another department?
+what's the end date of patient 004-13127's influenza quarantine?
+what are the precautions to take after the chest x-ray procedure?
+what tests will patient 007-11182 have today?
+what is the phone number of patient 013-29301's guardian?
+does patient 027-32001 have a past overseas travel experience?
+haben patient 025-44495 reported the covid-19 test result?
+whose phone number is the phone number of patient 005-48105's guardian?
+i need to know the phone number of patient 030-42006's guardian.
+what are the results of patient 025-50213's ct scan?
+ist patient 013-28507 subject to covid-19 testing
+did patient 032-754 sign a consent form for blood transfusion.
+who patient 030-34260 was seeing when they last went to the dermatology department.
+when patient 004-28929 ends the quarantine period in case of influenza?
+what is the ward id where patient 027-203413 can be admitted?
+has patient 007-10135 ever experienced a side effect during a blood transfusion?
+does patient 030-31704 get x-ray readings?
+does patient 031-3507 have a family history of transfusion reaction
+what is the address of patient 030-42006.
+tell me the dose of the prescribed opioid for patient 012-4131?
+i mean did patient 031-23605 report the covid-19 test result?
+can you please tell me the name of the diagnosis that patient 013-9268 received in another department?
+what is the checklist you should prepare prior to having sedative agent?
+when is the earliest next visit of patient 015-56556 for other departments?
+how long was anticonvulsant - valproate taking for patient 016-20141?
+is patient 007-2498 available for a test today?
+...when was the last time that patient 030-10407 had a medication that should be taken regularly?
+what is the type of blood that patient 005-77687 has?
+do you think ecotrin ec is a gender restricted drug?
+what is the address of patient 016-18150?
+tell me the icd-11 code for sinusitis - radiographically demonstrated in icd-10?
+what is the phone number of patient 015-80402's guardian?
+does patient 027-4309 have any appointment today for any procedure?
+tell me the icd-11 code for acute respiratory failure - due to neurological process in icd-10?
+what are the results of patient 028-39354's mri examination?
+does patient 013-29856 have a history of agitation - severe in his/her family?
+what genetic test did patient 035-9846 undergo?
+do you think patient 007-16517 may have a family history of any diseases?
+how about what's the address of patient 035-2057?
+what is the impact of 100 ml flex cont : magnesium sulfate in d5w 10-5 mg/ml-% iv soln?
+does patient 004-4326 have a scheduled appointment in another department?
+do you think that patient 027-178044 has a plan for visits following the hospital visit?
+do you believe patient 027-203413 has received any additional nasopharynx test?
+is a genetic test that patient 025-57841 has had?
+i got a question...and is it a gender limit on amlodipine besylate 5 mg po tabs?
+did patient 013-28507 fill out the consent form for ct scan?
+if patient 005-19985 has any plans to come back after the hospital stay at all other departments?
+is there any genetic test that patient 035-15069 received?
+will patient 021-50282 be given any additional blood, venipuncture test?
+has patient 018-47575 ever experienced any side effects during a blood transfusion?
+what code is associated with icd-11 for coagulopathy - heparin administration in icd-10?
+which medications are administered as antibiotics to patient 002-54808?
+did patient 011-55642 provide the results of the covid-19 testing?
+is that patient 010-9767 has an appointment in another department?
+does patient 006-36108 have a family history of any disease?
+what is the top 10 side effect of 0.4 ml syringe : enoxaparin sodium 40 mg/0.4ml sc soln?
+what drugs are being administered to patient 013-33898 in the form of sedatives?
+tell me the icd-11 code for abdominal compartment syndrome in icd-10?
+how old is the age limit for using lorazepam 0.5 mg tab?
+when patient 022-61539 is going to receive the next mri?
+what is the checklist before the beta blocker - carvedilol procedure?
+did patient 002-58884 sign the consent form for the blood transfusion?
+can you please tell me the address of patient 003-34282?
+what is the phone number of patient 011-55642's companion?
+does patient 016-35481 have a genetic test that they got?
+does patient 002-76990 have a trip plan after the hospital stay, also other departments?

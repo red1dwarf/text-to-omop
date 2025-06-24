@@ -1,0 +1,29 @@
+Prompts for questions generation from templates :
+Step 1:
+"""
+Using the question template below, generate 15 questions that:
+- Best capture the diversity of temporal expressions.
+- Are realistic.
+- Are compatible with the OMOP schema.
+
+=> These questions will be used to train a text-to-SQL model (OMOP).
+
+To do this, replace the tags with actual values :
+[placeholder] --> possible values
+
+
+TEMPLATE : [question_template]
+"""
+
+Step 2:
+"""
+
+"""
+
+Step 3:
+"""
+[question]
+
+For the question above, give me the PostgreSQL query for the OMOP CDM v5.4 schema.
+Do not use JOINs, but use nested subqueries instead. Use aliases if needed.
+"""
