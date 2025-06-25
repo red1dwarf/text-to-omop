@@ -10,6 +10,7 @@ from peft import get_peft_model, LoraConfig, TaskType
 import torch
 import pandas as pd
 import os
+from tqdm import tqdm
 
 # Environment setup
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -77,12 +78,36 @@ You are a helpful SQL assistant. Generate SQL queries based on the given questio
 {example['output']}<|eot_id|>"""
     }
 
-def setup_training(lora_model, dataset, tokenizer):
+def tokenize_dataset(dataset, tokenizer):
+    """Tokenize the dataset with proper formatting"""
+    print("Tokenizing dataset...")
+    
+    def tokenize_function(examples):
+        tokenized = tokenizer(
+            examples["text"],
+            truncation=True,
+            padding=False,
+            max_length=512,
+            return_tensors="pt"
+        )
+        tokenized["labels"] = tokenized["input_ids"].clone()
+        return tokenized
+    
+    # Apply formatting and tokenization
+    formatted_dataset = dataset.map(format_prompt, batched=False)
+    tokenized_dataset = formatted_dataset.map(
+        tokenize_function,
+        batched=True,
+        remove_columns=formatted_dataset["train"].column_names
+    )
+    
+    print(f"Training examples: {len(tokenized_dataset['train'])}")
+    print(f"Validation examples: {len(tokenized_dataset['test'])}")
+    return tokenized_dataset
+
+def setup_training(lora_model, tokenized_dataset, tokenizer):
     """Configure and setup the training process"""
     print("Setting up training...")
-    
-    # Format the dataset
-    formatted_dataset = dataset.map(format_prompt, batched=False)
     
     # Data collator for dynamic padding
     data_collator = DataCollatorForLanguageModeling(
@@ -91,7 +116,7 @@ def setup_training(lora_model, dataset, tokenizer):
         pad_to_multiple_of=8
     )
     
-    # Training arguments
+    # Training arguments - updated parameter names
     training_args = TrainingArguments(
         output_dir="./llama3-8b-lora-sql",
         per_device_train_batch_size=2,
@@ -106,7 +131,7 @@ def setup_training(lora_model, dataset, tokenizer):
         save_steps=100,
         eval_steps=100,
         save_strategy="steps",
-        eval_strategy="steps",
+        eval_strategy="steps",  # Correct parameter name
         load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         greater_is_better=False,
@@ -124,8 +149,8 @@ def setup_training(lora_model, dataset, tokenizer):
     trainer = Trainer(
         model=lora_model,
         args=training_args,
-        train_dataset=formatted_dataset["train"],
-        eval_dataset=formatted_dataset["test"],
+        train_dataset=tokenized_dataset["train"],
+        eval_dataset=tokenized_dataset["test"],
         data_collator=data_collator,
     )
     
@@ -146,8 +171,13 @@ def main():
         # Apply LoRA
         lora_model = apply_lora(model)
         
-        # Setup and run training
-        trainer = setup_training(lora_model, dataset, tokenizer)
+        # Tokenize dataset
+        tokenized_dataset = tokenize_dataset(dataset, tokenizer)
+        
+        # Setup training
+        trainer = setup_training(lora_model, tokenized_dataset, tokenizer)
+        
+        # Start training
         print("Starting training...")
         trainer.train()
         
@@ -162,5 +192,51 @@ def main():
         print(f"Error during training: {e}")
         raise
 
+def test_model():
+    """Test the trained model"""
+    try:
+        from peft import PeftModel
+        
+        print("Loading trained model for testing...")
+        tokenizer = AutoTokenizer.from_pretrained("./llama3-8b-lora-sql-final")
+        
+        base_model = AutoModelForCausalLM.from_pretrained(
+            "meta-llama/Meta-Llama-3-8B",
+            device_map="auto",
+            torch_dtype=torch.bfloat16
+        )
+        
+        model = PeftModel.from_pretrained(base_model, "./llama3-8b-lora-sql-final")
+        model = model.merge_and_unload()  # Merge LoRA weights
+        
+        # Test prompt
+        test_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a helpful SQL assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Show me all customers from California<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+"""
+        
+        inputs = tokenizer(test_prompt, return_tensors="pt").to("cuda")
+        
+        with torch.no_grad():
+            outputs = model.generate(
+                **inputs,
+                max_new_tokens=100,
+                temperature=0.7,
+                do_sample=True,
+                pad_token_id=tokenizer.eos_token_id
+            )
+        
+        print("Generated SQL:")
+        print(tokenizer.decode(outputs[0], skip_special_tokens=True).split("<|eot_id|>")[-1].strip())
+        
+    except Exception as e:
+        print(f"Error during testing: {e}")
+
 if __name__ == "__main__":
     main()
+    
+    # Uncomment to test the trained model
+    # test_model()
