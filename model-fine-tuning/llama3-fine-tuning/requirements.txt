@@ -1,0 +1,32 @@
+# Essential requirements for Llama-3-8B LoRA fine-tuning
+# Install PyTorch first with CUDA support
+
+# Core ML libraries - install these first
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# Build tools
+packaging>=21.0
+wheel>=0.38.0
+
+# Transformers ecosystem
+transformers>=4.36.0
+tokenizers>=0.15.0
+accelerate>=0.25.0
+
+# PEFT for LoRA
+peft>=0.7.0
+
+# Data processing
+datasets>=2.15.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.64.0
+psutil>=5.9.0
+
+# Evaluation
+evaluate>=0.4.0
+scikit-learn>=1.3.0
