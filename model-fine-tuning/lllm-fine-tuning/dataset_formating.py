@@ -57,7 +57,6 @@ column_descriptions = [
     "concept_ancestor.descendant_concept_id: Lower-level (child) concept"
 ]
 
-schema_context = "\n".join(column_descriptions)
 
 input_path = 'data_generation/dataset_NL_SQL.sql'
 output_path = 'model-fine-tuning/formatted_data_with_schema.jsonl'
@@ -65,11 +64,30 @@ output_path = 'model-fine-tuning/formatted_data_with_schema.jsonl'
 with open(input_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-with open(output_path, 'w', encoding='utf-8') as outfile:
-    for record in data:
-        prompt_input = f"Question: {record['question']}\n\nSchema:\n{schema_context}\n\nSQL:"
-        transformed = {
-            "input": prompt_input,
-            "output": record["sql"]
-        }
-        outfile.write(json.dumps(transformed, ensure_ascii=False) + '\n')
+
+def inject_whole_schema_into_prompt():
+    """
+    Inserts the whole schema into the prompts
+    """
+
+    schema_context = "\n".join(column_descriptions)
+    with open(output_path, 'w', encoding='utf-8') as outfile:
+        for record in data:
+            prompt_input = f"Question: {record['question']}\n\nSchema:\n{schema_context}\n\nSQL:"
+            transformed = {
+                "input": prompt_input,
+                "output": record["sql"]
+            }
+            outfile.write(json.dumps(transformed, ensure_ascii=False) + '\n')
+
+
+def filter_by_relevant_tables():
+    """
+    Uses a rule based approach to only insert relevant tables into the prompt
+    """
+
+    
+
+
+if __name__=="__main__":
+    inject_whole_schema_into_prompt()
