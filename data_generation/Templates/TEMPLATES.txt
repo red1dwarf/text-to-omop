@@ -15,7 +15,10 @@ when was the [time_filter_exact1] time that patient {patient_id} was diagnosed w
 what is_verb the age of patient {patient_id} [time_filter_global1]?
 how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} stayed in careunit {careunit} on the current hospital visit?
 what are_verb the top [n_rank] frequent procedures of patients aged [age_group] [time_filter_global1]?
+
 what was the name of the output that patient {patient_id} [time_filter_exact1] had [time_filter_global1]?
+--> what was the name of the measurement that patient {patient_id} [time_filter_exact1] had [time_filter_global1]?
+
 count the number of current patients.
 has_verb there been any organism found in the [time_filter_exact1] {culture_name} microbiology test of patient {patient_id} [time_filter_global1]?
 is the {vital_name} of patient {patient_id} [time_filter_exact2] measured [time_filter_global2] [comparison] than the [time_filter_exact1] value measured [time_filter_global1]?
@@ -195,10 +198,10 @@ what was the [time_filter_exact1] geographic region of patient {patient_id} [tim
 has_verb patient {patient_id} observation of {observation_name} ever been [comparison] than {observation_value} [time_filter_global1]?
 list the [unit_average] [agg_function] {observation_name} values of patient {patient_id} [time_filter_global1].
 count the number of patients whose clinical notes mention {concept_name} [time_filter_global1].
-has_verb patient {patient_id}'s notes mentioned {concept_name} [time_filter_global1]?
+has_verb notes for patient {patient_id} mentioned {concept_name} [time_filter_global1]?
 what was the [time_filter_exact1] observation period start date of patient {patient_id} [time_filter_global1]?
 what is_verb the length of the observation period of patient {patient_id}?
-what are_verb the top [n_rank] chronic conditions (condition eras) among patients aged [age_group] [time_filter_global1]?
+What are_verb the top [n_rank] {condition_code} conditions lasting more than 1 year among patients aged [age_group] [time_filter_global1]?
 count the number of patients with {diagnosis_name} condition era lasting at least [n_days] days [time_filter_global1].
 what is the median age at death of patients diagnosed with {diagnosis_name} [time_filter_global1]?
 when was the [time_filter_exact1] death date of patient {patient_id}?
