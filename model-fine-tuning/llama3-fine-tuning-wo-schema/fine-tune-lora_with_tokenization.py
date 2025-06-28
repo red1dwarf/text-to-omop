@@ -86,11 +86,10 @@ def tokenize_dataset(dataset, tokenizer):
         tokenized = tokenizer(
             examples["text"],
             truncation=True,
-            padding=False,
-            max_length=512,
-            return_tensors="pt"
+            padding="max_length",
+            max_length=512
         )
-        tokenized["labels"] = tokenized["input_ids"].clone()
+        tokenized["labels"] = tokenized["input_ids"]
         return tokenized
     
     # Apply formatting and tokenization
