@@ -47,9 +47,9 @@ def format_llama3_prompt(question):
 
 You are a helpful SQL assistant. You generate SQL queries for a clinical database that follows the OMOP Common Data Model (OMOP CDM v5.4).<|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Question: {question}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+Question: {question}
 
-SQL:"""
+SQL:<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
 
 def generate_sql(model, tokenizer, question, max_length=256):
     """Generate SQL from natural language question"""
