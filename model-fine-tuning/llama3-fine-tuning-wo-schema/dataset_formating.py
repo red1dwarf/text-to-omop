@@ -2,16 +2,13 @@ import json
 
 
 input_path = 'data_generation/DATASET.json'
-output_path = 'model-fine-tuning/formatted_data.jsonl'
+output_path = 'model-fine-tuning/llama3-fine-tuning-wo-schema/formatted_data.jsonl'
 
 with open(input_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
 def dataset_formating():
-    """
-    Delete 
-    """
 
     with open(output_path, 'w', encoding='utf-8') as outfile:
         for record in data:

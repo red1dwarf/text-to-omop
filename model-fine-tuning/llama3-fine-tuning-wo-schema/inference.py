@@ -55,28 +55,34 @@ def generate_sql(model, tokenizer, question, max_length=256):
     """Generate SQL from natural language question"""
     # Format prompt using Llama-3 template
     prompt = format_llama3_prompt(question)
+
+    # eot_token = "<|eot_id|>"
+    # eot_token_id = tokenizer.convert_tokens_to_ids(eot_token)
     
     # Tokenize input
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
     
+
     # Generate output
     with torch.no_grad():
+
         outputs = model.generate(
             **inputs,
             max_new_tokens=max_length,
             do_sample=False,
             # temperature=0.7,
             # top_p=0.9,
-            eos_token_id=tokenizer.eos_token_id,
-            pad_token_id=tokenizer.eos_token_id
+            pad_token_id=tokenizer.eos_token_id,
+            eos_token_id=tokenizer.eos_token_id
         )
     
     # Decode and clean output
-    full_output = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    full_output = tokenizer.decode(outputs[0], skip_special_tokens=False)
     
     # Extract just the SQL part after the last "SQL:" prompt
-    sql = full_output.split("SQL:")[-1].strip()
-    return sql
+    # sql = full_output.split("SQL:assistant")[-1].strip()
+    # final_sql = sql.split("<|start_header_id|>assistant<|end_header_id|>")[0].strip()
+    return full_output
 
 if __name__ == "__main__":
     try:
@@ -87,7 +93,7 @@ if __name__ == "__main__":
         print("Model loaded successfully!")
         
         # Example question and schema
-        question = "What are the top 4 frequent prescribed drugs for patients who were also prescribed drug_concept_id 19041823 at the same time on the last hospital visit?"
+        question = "What are the top 4 frequent prescribed drugs for patients who were also prescribed <DRUG>19041823</DRUG> at the same time on the last hospital visit?"
         
         # Generate SQL
         print("\nGenerating SQL query...")

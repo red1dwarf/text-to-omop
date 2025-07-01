@@ -71,7 +71,7 @@ def format_prompt(example):
     return {
         "text": f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-You are a helpful SQL assistant. You generate SQL queries for a clinical database that follows the OMOP Common Data Model (OMOP CDM v5.4).<|eot_id|><|start_header_id|>user<|end_header_id|>
+You are a helpful SQL assistant. Generate SQL queries based on the given questions.<|eot_id|><|start_header_id|>user<|end_header_id|>
 
 {example['input']}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
@@ -86,17 +86,16 @@ def tokenize_dataset(dataset, tokenizer):
         tokenized = tokenizer(
             examples["text"],
             truncation=True,
-            padding="max_length",
+            padding=False,
             max_length=512
         )
-        tokenized["labels"] = tokenized["input_ids"]
         return tokenized
     
     # Apply formatting and tokenization
     formatted_dataset = dataset.map(format_prompt, batched=False)
     tokenized_dataset = formatted_dataset.map(
         tokenize_function,
-        batched=True,
+        batched=False,
         remove_columns=formatted_dataset["train"].column_names
     )
     
