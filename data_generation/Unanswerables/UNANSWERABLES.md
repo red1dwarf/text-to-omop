@@ -1,5 +1,4 @@
 What is the latest measurement output for patient 2091898309874802309?
-
 any test appointment of patient 022-187132 today?
 what drugs are being administered to patient 007-1517 to provide sedatives?
 is patient 006-47576 a person with a family history of any health problems?
@@ -715,8 +714,6 @@ can you please tell me the address of patient 003-34282?
 what is the phone number of patient 011-55642's companion?
 does patient 016-35481 have a genetic test that they got?
 does patient 002-76990 have a trip plan after the hospital stay, also other departments?
-
-
 do you know how many operating rooms are currently available?
 if patient 20898 has any plans to come back after the hospital stay at all other departments?
 please inform me of all the prescriptions patient 8888 received in another department.
@@ -1667,8 +1664,6 @@ has patient 5828 had any additional catheter tip-iv test performed on him?
 whats the results of patient 1114's pet ct examination?
 when will patient 17953 next go to the hospital?
 which antihistamines are the most prescribed?
-
-
 what key is alto sax in
 what is the average number of days between a patient's last discharge time and their next expected admission time?
 what is the maximum number of standing tackles made by the patients older than 45 and married?
